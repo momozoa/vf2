@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    Title 수정
+    Title 수정1
     <div id="nav">
       <router-link to="/">Home</router-link> |
       <router-link to="/about">About</router-link>
